@@ -40,7 +40,7 @@ $ npm run start:prod
 
 ## Documentation
 
-- Author - [PostMan](https://www.postman.com/dark-station-268159/workspace/test)
+- Documentation - [PostMan](https://www.postman.com/dark-station-268159/workspace/test)
 
 ## Test
 
