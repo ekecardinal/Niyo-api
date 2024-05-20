@@ -7,10 +7,6 @@
 
   <p align="center">A Nestjs App with prisma ORM and mongoDB database</p>
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Installation
 
 ```bash
